@@ -1,0 +1,17 @@
+
+
+Fetch future
+
+Check if wind above tresh between 0600 and 1200
+
+If yes, notify and save time and wind.
+If change on subsequent let know.
+
+
+
+
+Fetch hour by hour>
+
+If not in saved timeslots and above tresh, make wakiki alert!
+Alert about change in selected slots and all above the tresh.
+
